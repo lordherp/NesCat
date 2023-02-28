@@ -1,4 +1,6 @@
-![Image description](https://github.com/nathalis/NesCat/raw/main/NESCAT_icon.png)
+Working version of Nescat 0.5. Compiled on 
+- Arduino 1.8.19 and 
+- esp-idf version 4.4.2 
 
 # NesCat 0.5
 
@@ -23,8 +25,8 @@ PCM5102 I2S AUDIO MODULE, OTHER PARTS...
 Only for personal & educational use! 
 
 ### DIAGRAM (NEW)
-![Image description](https://github.com/nathalis/NesCat/raw/main/PCB/SCHEMATIC.png)
-![Image description](https://github.com/nathalis/NesCat/raw/main/PCB/BOARD.png)
+![Image description](https://github.com/lordherp/NesCat/raw/main/PCB/SCHEMATIC.png)
+![Image description](https://github.com/lordherp/NesCat/raw/main/PCB/BOARD.png)
 
 
 ### IMAGES:
