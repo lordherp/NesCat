@@ -8,12 +8,19 @@ Working version of Nescat 0.5. Compiled on
 Compiled Binary Available if you need it - https://drive.google.com/drive/folders/1Wi5mBpOkqX67UbqeTSLDuyYs8eYAlj20?usp=sharing
 
 
-Original NESCAT by Nathalis
-prototype version: 0.5 (c)2020
-Enhanced version Nintendo Emulator for ESP32
+Original NESCAT by Nathalis prototype version: 0.5 (c)2020
+Nintendo Emulator for ESP32
 
-Requirements: ESP32 WEMOS D1 MINI, ST7789 LCD, MICROSD CARD slot,
-PCM5102 I2S AUDIO MODULE, OTHER PARTS...
+Requirements: 
+- ESP32 WEMOS D1 MINI / Any Esp32 dev board
+- 240x240 ST7789 LCD 
+- MICROSD CARD module (to load your games)
+- 8 x Push Button Switches
+- PCM5102 I2S AUDIO MODULE (for Audio)
+- (Optional) PAM8403 Audio Amplifier Module
+- (Optional) 1W Audio Speaker
+
+
 
 
 ### FEATURES:
@@ -29,8 +36,9 @@ PCM5102 I2S AUDIO MODULE, OTHER PARTS...
 Only for personal & educational use! 
 
 ### DIAGRAM (NEW)
-![Image description](https://github.com/lordherp/NesCat/blob/master/PCB/SCHEMATIC.png)
 ![Image description](https://github.com/lordherp/NesCat/blob/master/PCB/BOARD.png)
+![Image description](https://github.com/lordherp/NesCat/blob/master/PCB/SCHEMATIC.png)
+
 
 
 ### IMAGES:
